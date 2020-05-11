@@ -1,0 +1,31 @@
+@media (max-width: 800px){
+    .main__subtitle{
+        font-size: 50px;
+    }
+}
+
+@media (max-width: 650px){
+    .main__subtitle{
+        font-size: 40px;
+    }
+
+    .main__input_form{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .main__input,
+    .main__btn{
+        margin: 10px 0px;
+    }
+
+    .main__ip_info{
+        width: 330px;
+    }
+}
+
+@media (max-width: 530px){
+    .main__subtitle{
+        font-size: 30px;
+    }
+}
