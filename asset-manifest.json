@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ipinfo/static/css/main.186f0b38.chunk.css",
+    "main.js": "/ipinfo/static/js/main.a7cd6cf1.chunk.js",
+    "main.js.map": "/ipinfo/static/js/main.a7cd6cf1.chunk.js.map",
+    "runtime-main.js": "/ipinfo/static/js/runtime-main.d321304f.js",
+    "runtime-main.js.map": "/ipinfo/static/js/runtime-main.d321304f.js.map",
+    "static/js/2.d988e801.chunk.js": "/ipinfo/static/js/2.d988e801.chunk.js",
+    "static/js/2.d988e801.chunk.js.map": "/ipinfo/static/js/2.d988e801.chunk.js.map",
+    "index.html": "/ipinfo/index.html",
+    "precache-manifest.8bcaee843c3f0767ce3db940c6c1baf3.js": "/ipinfo/precache-manifest.8bcaee843c3f0767ce3db940c6c1baf3.js",
+    "service-worker.js": "/ipinfo/service-worker.js",
+    "static/css/main.186f0b38.chunk.css.map": "/ipinfo/static/css/main.186f0b38.chunk.css.map",
+    "static/js/2.d988e801.chunk.js.LICENSE.txt": "/ipinfo/static/js/2.d988e801.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/ipinfo/static/media/Roboto-Thin.321de678.ttf",
+    "static/media/logo.svg": "/ipinfo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d321304f.js",
+    "static/js/2.d988e801.chunk.js",
+    "static/css/main.186f0b38.chunk.css",
+    "static/js/main.a7cd6cf1.chunk.js"
+  ]
+}
